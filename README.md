@@ -92,7 +92,7 @@
 
 
  
-[![Dipto Chakrabartys Github Stats] (https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show icons=true)](https://github.com/DiptoChakrabarty) 
+[![Dipto Chakrabartys Github Stats] (https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true)](https://github.com/DiptoChakrabarty) 
 
 ## My Certifications :arrow_down:
 
