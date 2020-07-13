@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 <h3>
-* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
+* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
 
 * I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT :sparkles:.
 
@@ -9,9 +9,11 @@
 
 * I am currently brushing up my skills and plan to learn Golang and Terraform .
 
-* I am willing to work on free-lance projects and love to  contribute to open source :bulb:
+* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
-* :magnet: You can checkout my projects from here :trident: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
+* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
+
+* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/dipto-chakrabarty/) :sparkler:
 
 </h3>
 
@@ -105,13 +107,13 @@
 
 ## My Activities :mailbox_with_mail:
 
-### Blogs
+### Blogs :open_book:
 
 - [How Jenkins can help build your code](https://medium.com/@diptochakrabarty/how-jenkins-can-actually-help-you-build-your-code-with-every-commit-5b9b1278f12f)
 - [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa)
 - [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947)
 
-### Webinars
+### Webinars :video_camera:
 
 - [Micorservices with Docker](https://www.youtube.com/watch?v=Xs93YLgYJis&t=1989s)
 - [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU)
