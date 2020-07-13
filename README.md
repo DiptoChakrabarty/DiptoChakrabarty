@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-<h3>
+
 * I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
 
 * I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT :sparkles:.
@@ -112,7 +112,7 @@
 - [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa)
 - [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947)
 
-### Webinars :video_camera:
+### Webinars :tv:
 
 - [Micorservices with Docker](https://www.youtube.com/watch?v=Xs93YLgYJis&t=1989s)
 - [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU)
