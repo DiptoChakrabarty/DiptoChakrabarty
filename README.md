@@ -95,8 +95,7 @@
 
 
  
-[![Dipto Chakrabartys Github Stats] (https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true)](https://github.com/DiptoChakrabarty) 
-
+![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true)
 ## My Certifications :arrow_down:
 
 - [Red Hat Certified System Administrator](https://media-exp1.licdn.com/dms/image/C4D2DAQFmWJMLW78TaQ/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=VF9vSpwjLb26doBzifmN6QIZFVSEJAMvOWAiGh3Fzzo)
