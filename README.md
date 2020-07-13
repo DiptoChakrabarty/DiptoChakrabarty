@@ -119,5 +119,5 @@
 - [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8)
 
 
-If you like the Repository give it a :star: and also follow me on Github :grinning:
+If you like the Repository give it a :star: and also follow me on Github :grinning: , you can also see my projects here [Projects](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
 
