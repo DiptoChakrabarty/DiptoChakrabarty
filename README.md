@@ -1,6 +1,6 @@
 # Dipto Chakrabarty 
 
-<h1 align="center"> Hello There 👋 <h1>
+<h1 align="center"> Hello There 👋 </h1>
 
 * I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
 
@@ -12,7 +12,7 @@
 
 * I am willing to work on free-lance projects and love to  contribute to open source :bulb:
 
-* You can checkout my projects from here - [My Projects](https://github.com/DiptoChakrabarty/DiptoChakrabarty/Projects.md)
+* You can checkout my projects from here - [My Projects](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
 
 ## Tech Stack :computer:
 
@@ -96,7 +96,7 @@
 
 
  
-[!Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show icons=true)](https://github.com/DiptoChakrabarty) 
+[Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show icons=true)](https://github.com/DiptoChakrabarty) 
 
 ## My Certifications :arrow_down:
 
