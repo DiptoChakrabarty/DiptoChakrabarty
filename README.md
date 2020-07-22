@@ -100,9 +100,9 @@
 
 ## My Certifications :arrow_down:
 
-- [Red Hat Certified System Administrator](https://www.linkedin.com/in/dipto-chakrabarty/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACm4uM4BedWk9rPZOXw_SkvY6G9A_68Rr1I,1592886576009)/)
-- [Red Hat Certified Specialist in Ansible Automation](https://www.linkedin.com/in/dipto-chakrabarty/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACm4uM4BedWk9rPZOXw_SkvY6G9A_68Rr1I,1592886667857)/)
-- [Red Hat Certified  Engineer](https://www.linkedin.com/in/dipto-chakrabarty/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACm4uM4BedWk9rPZOXw_SkvY6G9A_68Rr1I,1592886805613)/) 
+- [Red Hat Certified System Administrator](https://drive.google.com/file/d/13EaKphJ3zC1vn1q-nevF6YoJuit_aeik/view?usp=sharing)
+- [Red Hat Certified Specialist in Ansible Automation](https://drive.google.com/file/d/1Nf-0RHdcBAlj1-tMuMy_12cw9d3hGDgN/view?usp=sharing)
+- [Red Hat Certified  Engineer](https://drive.google.com/file/d/1b2ivwSc9fu9V2E7OZ7jrk7YQMaN-T12i/view?usp=sharing) 
 
 
 ## My Activities :mailbox_with_mail:
