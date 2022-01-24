@@ -1,9 +1,9 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
+* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a fourth year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
 
-* I am a Devops and Python enthusiast :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT :sparkles:.
+* I am a Devops and Python enthusiast :toolbox: , MicroSoft Student Partner and a SRE Intern at @CISCO :sparkles:.
 
 * I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
 
@@ -99,6 +99,7 @@
 ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiptoChakrabarty&theme=dark&count_private=true&theme=radical)](https://github.com/DiptoChakrabarty)
+![trophy](https://github-profile-trophy.vercel.app/?username=DiptoChakrabarty&theme=onestar&no-frame=true&column=3&row=2&)
 
 ## My Certifications :arrow_down:
 
@@ -116,4 +117,6 @@
 | [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947) | [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8) |
 
 If you like the Repository give it a :star: and also follow me on Github :grinning: , you can also see my projects here [Projects](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
+
+<p align="center"><img src="https://profile-counter.glitch.me/{DiptoChakrabarty}/count.svg" alt="DiptoChakrabarty :: Visitor's Count" /></p>
 
