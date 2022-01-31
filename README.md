@@ -35,11 +35,11 @@
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/git.gif"  height="90" width="70" />
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/git.gif"  height="90" width="90" />
   </a>
 
   <a href="https://python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/ansible.gif"  height="90" width="70"/>
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/ansible.gif"  height="90" width="90"/>
   </a>
 
   <a href="https://python.org/" target="_blank" >
@@ -48,6 +48,10 @@
 
   <a href="https://python.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/cicd.gif"  height="90" />
+  </a>
+
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/terraform.gif"  height="90" />
   </a>
 </p>
 
@@ -67,7 +71,7 @@
   </a>
 
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/mysql.gif"  height="90" width="70"/>
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/mysql.png"  height="90" width="70"/>
   </a>
 </p>
 
