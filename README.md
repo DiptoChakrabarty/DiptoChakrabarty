@@ -27,7 +27,7 @@
   </a>
 
   <a href="https://python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/golang.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/python3.gif"  height="90" />
   </a>
 </p>
 
@@ -47,14 +47,19 @@
   </a>
 
   <a href="https://python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/jenkins.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/cicd.gif"  height="90" />
+  </a>
+</p>
+
+### Cloud
+
+<p float="left">
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/aws.gif"  height="90" />
   </a>
 </p>
 
 
-
-
- 
 ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiptoChakrabarty&theme=dark&count_private=true&theme=radical)](https://github.com/DiptoChakrabarty)
