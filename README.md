@@ -34,27 +34,27 @@
 ### Devops
 
 <p float="left">
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/docker.gif"  height="90" width="90" />
   </a>
 
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://git-scm.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/git.gif"  height="90" width="90" />
   </a>
 
-  <a href="https://python.org/" target="_blank" >
+  <a href="https://www.ansible.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/ansible.gif"  height="90" width="90"/>
   </a>
 
-  <a href="https://python.org/" target="_blank" >
+  <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/kubernetes.gif"  height="90" />
   </a>
 
-  <a href="https://python.org/" target="_blank" >
+  <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/cicd.gif"  height="90" />
   </a>
 
-  <a href="https://python.org/" target="_blank" >
+  <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/terraform.gif"  height="90" />
   </a>
 </p>
@@ -62,7 +62,7 @@
 ### Cloud
 
 <p float="left">
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/aws.gif"  height="90" />
   </a>
 </p>
@@ -70,11 +70,11 @@
 ### DataBases
 
 <p float="left">
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/mongo.gif"  height="90" />
   </a>
 
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/mysql.png"  height="90" width="90"/>
   </a>
 </p>
@@ -82,15 +82,15 @@
 ### Tools
 
 <p float="left">
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://grafana.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/grafana.gif"  height="90" />
   </a>
 
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/influx.png"  height="90"/>
+  <a href="https://www.influxdata.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/influx.gif"  height="90"/>
   </a>
 
-  <a href="https://golang.org/" target="_blank" >
+  <a href="https://www.rabbitmq.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/rabbitmq.png"  height="90" width="90"/>
   </a>
 </p>
