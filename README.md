@@ -35,6 +35,10 @@
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/docker.gif"  height="90" width="90" />
+  </a>
+
+  <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/git.gif"  height="90" width="90" />
   </a>
 
@@ -71,10 +75,25 @@
   </a>
 
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/mysql.png"  height="90" width="70"/>
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/mysql.png"  height="90" width="90"/>
   </a>
 </p>
 
+### Tools
+
+<p float="left">
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/grafana.gif"  height="90" />
+  </a>
+
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/influx.png"  height="90"/>
+  </a>
+
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/rabbitmq.png"  height="90" width="90"/>
+  </a>
+</p>
 
 ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
