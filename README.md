@@ -17,6 +17,14 @@
 
 
 ## Tech Stack :computer:
+## Skills
+
+<p float="left">
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/python3.gif"  height="90" />
+  </a>
+</p>
+
 
 <br>
 <table>
