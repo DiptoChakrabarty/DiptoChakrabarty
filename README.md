@@ -35,11 +35,11 @@
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/git.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/git.gif"  height="90" width="70" />
   </a>
 
   <a href="https://python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/ansible.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/ansible.gif"  height="90" width="70"/>
   </a>
 
   <a href="https://python.org/" target="_blank" >
@@ -56,6 +56,18 @@
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/aws.gif"  height="90" />
+  </a>
+</p>
+
+### DataBases
+
+<p float="left">
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/mongo.gif"  height="90" />
+  </a>
+
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/mysql.gif"  height="90" width="70"/>
   </a>
 </p>
 
