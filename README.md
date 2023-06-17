@@ -1,9 +1,9 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a fourth year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
+* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . I am working as a SRE at @CISCO
 
-* I am a Devops and Python enthusiast :toolbox: , MicroSoft Student Partner and a SRE Intern at @CISCO :sparkles:.
+* I am a Devops and Python enthusiast :toolbox:
 
 * I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
 
