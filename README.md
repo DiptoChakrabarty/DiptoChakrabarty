@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . I am working as a SRE at @CISCO
+* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . I am pursuing a Masters at Carnegie Mellon University. 
 
 * I am a Devops and Python enthusiast :toolbox:
 
